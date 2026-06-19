@@ -1,5 +1,5 @@
 # Bugged-Grub
-![Bugged-Grub Preview](preview.png)
+![Bugged-Grub Preview](./preview.png)
 
 A personal GRUB theme I created for myself.
 
